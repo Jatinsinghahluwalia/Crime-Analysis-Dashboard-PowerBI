@@ -2,7 +2,7 @@
 Interactive PowerBI Dashboard analyzing crime trends and victim demographics in India
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### Main Dashboard
 ![Dashboard](Dashboard.png)
@@ -12,7 +12,7 @@ Interactive PowerBI Dashboard analyzing crime trends and victim demographics in 
 
 ---
 
-## 🚀 Features
+##  Features
 - Crime analysis by city
 - Victim gender analysis
 - Police deployment visualization
@@ -21,7 +21,7 @@ Interactive PowerBI Dashboard analyzing crime trends and victim demographics in 
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Power BI
 - Power Query
 - DAX
@@ -29,13 +29,16 @@ Interactive PowerBI Dashboard analyzing crime trends and victim demographics in 
 
 ---
 
-## 📂 Files Included
+##  Files Included
 - PowerBI_CrimeReport.pbix
 - Dashboard screenshots
 
 ---
 
-## 📈 Insights
+##  Insights
 - Delhi and Mumbai reported the highest crime counts
 - Female victims represented a major share
 - Crime trends fluctuated over the years
+
+## Live Dashboard
+[View Interactive PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTVmYmRkYzMtNmQ0Ny00NzY5LWI5MzMtOTljNWYxZWIxODgwIiwidCI6IjFhMmUyZjY2LThkZDItNGJlZS05ZTA3LTIyNDQ0OTYxMzFhNSJ9)
